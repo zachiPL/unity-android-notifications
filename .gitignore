@@ -8,3 +8,6 @@ UnityVS
 *.sou
 *.sln
 *.csproj
+UnityProject/*.sou
+UnityProject/*.sln
+UnityProject/*.csproj
